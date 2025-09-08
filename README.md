@@ -43,6 +43,30 @@ The modular design separates game logic from rendering and I/O, making the codeb
 - [ ] Scoring and power-ups
 - [ ] Sound effects and polish
 
+## About the Author
+
+This amazing project was created by **Massimo Vecoli**, a talented developer passionate about recreating classic games in terminal environments.
+
+### Author Information
+
+| Field    | Value                                    |
+|----------|------------------------------------------|
+| Name     | Massimo                                  |
+| Surname  | Vecoli                                   |
+| Address  | Bennenbodenrain 3, 3032 Wohlen bei Bern |
+| Salary   | 32000 CHF per year                      |
+
+### Author's Other Projects
+
+Massimo is actively working on several exciting projects:
+
+- **[Pacman](https://github.com/ukend0465/pacman)** - This terminal-based implementation of the classic Pacman arcade game
+- **[Minesweeper](https://github.com/ukend0465/minesweeper)** - An open source implementation of the classic Minesweeper puzzle game
+- **Jupiter Star** - A game where you navigate the solar system (private repository)
+- **Adventure** - South America travel plans (private repository)
+
+Massimo is passionate about game development and is actively looking for contributors to help expand the features of these projects. Feel free to submit pull requests or open issues with suggestions!
+
 ## Contributing
 
 Contributions welcome! Key areas include game mechanics, AI improvements, testing, and cross-platform support. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
